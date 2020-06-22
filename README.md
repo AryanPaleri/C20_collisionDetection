@@ -1,2 +1,2 @@
-# C20_collisionDetection
-Algorithm for checking collision
+# p5.play-boilerplate
+Boiler plate for p5.play
